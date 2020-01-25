@@ -17,7 +17,7 @@ lang: en-US
 title: Preetika Subramaniam
 email: preetika.ee@gmail.com
 description: Business Analyst @Uber 
-baseurl: /home # the optional subpath of your site, e.g. "/blog"
+baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://preetika-subramaniam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Preetika Subramaniam
